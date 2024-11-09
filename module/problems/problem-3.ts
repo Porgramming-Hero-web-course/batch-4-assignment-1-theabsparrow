@@ -21,5 +21,5 @@
     const word: string = 'typescript';
 
     const result: number = countWordOccurrences(sentence, word)
-    console.log(result)
+    // console.log(result)
 }
